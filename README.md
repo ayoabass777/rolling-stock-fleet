@@ -40,10 +40,10 @@ The Random Forest Regressor was chosen to model the dataset's non-linear traits,
 Hyperparameter tuning via GridSearchCV identified the optimal configuration, significantly improving model performance.
 
 ## Visualization
-Key visualizations include:
+Key visualization include:
 
 ### Correlation Matrix
-![Correlation Matrix](./path/to/key-visual.png)
+![Correlation Matrix](./image/key-visual.png)
 
 This correlation matrix highlights the significant negative correlation between the year of the vehicle and its average CO2 emissions (g/km). Older vehicles are shown to have a relationship with higher emissions, underscoring the need for fleet modernization to enhance environmental sustainability.
 
